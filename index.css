@@ -1,0 +1,29 @@
+body {
+    background: #202020;
+    margin: 0px;
+    padding: 0px;
+    overflow:hidden;
+}
+
+.div_block {
+    background: #202020;
+    padding-top: 10px;
+    width: 100%;
+    height: 150px;
+}
+
+.div_block p, .div_block ul,.div_block ul li, .div_block i {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+}
+
+.div_block ul li {
+    float: left;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
