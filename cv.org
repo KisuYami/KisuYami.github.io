@@ -26,7 +26,6 @@
 \end{center}
 #+END_EXPORT
 
-* Sobre Eu
 Eu gostaria de entrar no mercado de trabalho para me desenvolver na área
 de análise de sistemas e futuramente em análise de bancos de dados,
 atualmente tenho experiência em manutenção de microcomputadores e
@@ -39,7 +38,7 @@ Projetos como STKLib, YAFM, RShell, MineGUI e Sitebootstrap
 *** JS 
 Desenvolvimento de frontends e backends
 *** Web
-Desenvolvimento de sites e webapps
+HTML e Css, Desenvolvimento de sites e webapps
 *** LaTeX
 Para criação de documentos acadêmicos
 
@@ -47,7 +46,7 @@ Para criação de documentos acadêmicos
 *** Android
 Modificação de firmware e manutenção geral
 *** Linux & *BSDs
-Manutenção e desenvolvimento de soluçoes para computadores e servidores, backups e automações
+Manutenção e desenvolvimento de soluções para computadores e servidores, backups e automações
 *** Windows
 Manutenção, reparos e reculperação de dados
 ** Linguas
@@ -62,6 +61,5 @@ Nativo
 *** Cinema Público
 2016, administração, montagem de equipamentos, gerenciamento de estoque e gerenciamento financeiro
 *** Funerária Nova Esperança
-2018 a 2019, cobrança de clientes
-*** Desenvolvimento
-2019, Design e desenvolvimento de um sistema para gerar carnês
+- 2018 a 2019, cobrança de clientes
+- 2019, design e desenvolvimento de um sistema para gerar carnês
