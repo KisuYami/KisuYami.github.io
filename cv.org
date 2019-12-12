@@ -1,0 +1,67 @@
+#+title: Resumé
+#+author: Reberti Carvalho Soares
+#+LATEX_CLASS: article
+#+OPTIONS: toc:nil
+#+OPTIONS: title:nil
+
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \usepackage{titling}
+#+LATEX_HEADER: \usepackage[margin=1.25in]{geometry}
+#+LATEX_HEADER: \usepackage{indentfirst}
+
+#+LATEX_HEADER: \titleformat{\section}{\huge\bfseries}{}{0em}{}[\titlerule]
+#+LATEX_HEADER: \titleformat{\subsection}{\large\bfseries}{\hspace{-.25in}}{0em}{}
+#+LATEX_HEADER: \titleformat{\subsubsection}[runin]{\bfseries}{}{0em}{}[---]
+#+LATEX_HEADER: \titlespacing{\subsubsection}{0em}{.25em}{0em}
+#+LATEX_HEADER: \pagenumbering{gobble}
+
+#+BEGIN_EXPORT latex
+\begin{center}
+  {\huge\bfseries
+    \theauthor}
+
+    \vspace{.25em}
+    reberti.csoares@gmail.com --- \url{kisuyami.github.io}
+
+\end{center}
+#+END_EXPORT
+
+* Sobre Eu
+Eu gostaria de entrar no mercado de trabalho para me desenvolver na área
+de análise de sistemas e futuramente em análise de bancos de dados,
+atualmente tenho experiência em manutenção de microcomputadores e
+desenvolvimento em C, HTML, CSS e JS.
+
+* Habilidades
+** Programação
+*** C
+Projetos como STKLib, YAFM, RShell, MineGUI e Sitebootstrap
+*** JS 
+Desenvolvimento de frontends e backends
+*** Web
+Desenvolvimento de sites e webapps
+*** LaTeX
+Para criação de documentos acadêmicos
+
+** Administração de Sistemas
+*** Android
+Modificação de firmware e manutenção geral
+*** Linux & *BSDs
+Manutenção e desenvolvimento de soluçoes para computadores e servidores, backups e automações
+*** Windows
+Manutenção, reparos e reculperação de dados
+** Linguas
+*** Englês
+Avançado
+*** Português
+Nativo
+
+* Experiência
+*** Lan House Gold Tech
+2014 a 2015, reparos de computadores e celulares, assitencia tecnica e atendimento geral
+*** Cinema Público
+2016, administração, montagem de equipamentos, gerenciamento de estoque e gerenciamento financeiro
+*** Funerária Nova Esperança
+2018 a 2019, cobrança de clientes
+*** Desenvolvimento
+2019, Design e desenvolvimento de um sistema para gerar carnês
