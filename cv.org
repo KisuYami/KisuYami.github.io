@@ -23,6 +23,9 @@
     \vspace{.25em}
     reberti.csoares@gmail.com --- \url{kisuyami.github.io}
 
+    \vspace{.25em}
+    (41) 98746-6568
+
 \end{center}
 #+END_EXPORT
 
