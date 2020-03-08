@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kisuyami.github.io
+Token: f93e92718e5f8af910e4dec0cf0513fde07104dd7210bb36bd0a364006ecc861
